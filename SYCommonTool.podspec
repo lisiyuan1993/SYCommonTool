@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "SYCommonTool"
   spec.version      = "0.0.1"
-  spec.summary      = "Create a collection of commonly used components in your project and keep it updated."
+  spec.summary      = "a collection of commonly used components"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-  创建项目中常用组件的集合，不断更新
+  创建项目中常用组件的集合，不断更新。。。。。。。。。。。。。。
                    DESC
 
   spec.homepage     = "https://github.com/lisiyuan1993/SYCommonTool"
