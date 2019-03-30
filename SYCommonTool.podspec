@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-  创建项目中常用组件的集合，不断更新。。。。。。。。。。。。。。
+  创建项目中常用组件的集合，不断更新。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
                    DESC
 
   spec.homepage     = "https://github.com/lisiyuan1993/SYCommonTool"
